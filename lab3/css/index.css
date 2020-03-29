@@ -1,0 +1,215 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0 auto;
+    color: #000000;
+    background-color: #f6f6f6;
+}
+a{
+    font-size:large ;
+}
+h3{
+    font-size: large;
+}
+header {
+    color: #000000;
+    background-color: #ffffff;
+    text-align: center;
+    height: 70px;
+}
+
+nav {
+
+    float: left;
+    margin: auto ;
+    padding-left: 100px;
+    padding-top: 15px;
+}
+
+li {
+    display: inline-block;
+}
+
+nav li {
+    padding: 0 1em;
+}
+
+a {
+
+    font-weight: normal;
+    color: #8590a6;
+    text-decoration:none;
+}
+h3 a{
+    padding: 10px;
+}
+
+.div-left{
+    float: right;
+    margin-top: 10px;
+}
+
+.div-right {
+    margin-right: 200px;
+    margin-top: 25px;
+    padding-right: 20px;
+    color: #000000;
+    float: right;
+}
+.contents{
+    width:900px;
+    border:2px solid #ededed;
+    padding: 10px;
+    margin: 20px auto;
+    background-color: white;
+}
+section{
+    padding: 10px 10px;
+}
+.functions{
+    background-color: white;
+   padding-bottom: 3px;
+}
+
+a:hover{
+    color: #87bff2;
+}
+
+nav li a {
+    color: #000000;
+}
+
+aside {
+    width: 100px;
+    height: 60px;
+    border:2px solid #ededed;
+    float:right;
+    margin: 18px 20px;
+    background-color: #ffffff;
+}
+
+aside a {
+
+    color: black;
+}
+
+aside ul {
+    padding: 0;
+    padding-top: 10px;
+    width: 100%;
+}
+
+aside li {
+    line-height: 20px;
+    height: 20px;
+    display: block;
+    text-align: center;
+    padding: 0.2em 0;
+    margin-bottom: 10px;
+}
+
+.title, h2 {
+    color: #000000;
+}
+
+.title {
+    color: #0084ff;
+    display: inline;
+    display: flex;
+    text-align: center;
+}
+
+.title img {
+    border: #b8b6b4 solid 2px;
+}
+
+.title div {
+    display: inline;
+    padding-left: 1em;
+    padding-top: 10px;
+    margin: auto 0;
+    font-size: 20px;
+    /*font-weight: bold;*/
+}
+
+.title span {
+    font-weight: normal;
+    font-size: small;
+}
+
+.title .symbol {
+    color: #000000;
+    font-size: large;
+}
+
+section blockquote {
+    margin: 0;
+    width: 7%;
+    font-size: small;
+    background-color: #d9edff;
+    padding: 0.7em;
+    color: #0084ff;
+    border: 0px solid rgba(85, 125, 171, 0.6);
+    border-radius: 3px;
+
+}
+
+p small {
+    margin: 0;
+    padding: 0;
+    color: #000000;
+}
+
+hr {
+    width: 90%;
+    margin: 0 5%;
+    border-width:0;
+    height: 1px;
+    color:rgba(85, 125, 171, 0.6);
+    background-color:rgba(85, 125, 171, 0.6);
+}
+
+.value ul {
+    display: inline-block;
+}
+
+.value {
+    color: #b8b6b4;
+    font-size: small;
+}
+
+.value li {
+    padding: 0.2em 0.6em;
+    background-color: rgba(85, 125, 171, 0.6);
+    border-radius: 3px;
+}
+
+h3 {
+    color: #8590a6;
+    text-align: center;
+}
+
+h4 {
+    color: #000000;
+    font-size: 20px;
+    margin: 0;
+}
+
+h4 small {
+    color: #000000;
+}
+
+.comment li {
+    display: block;
+margin: 15px;
+    line-height: 20px;
+
+}
+
+.active {
+    color:#87bff2;
+}
+
+h1 {
+    margin: 0.5em 4.5em;
+}
+

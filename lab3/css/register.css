@@ -1,0 +1,129 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0 auto;
+    color: #000000;
+    background-color: #f6f6f6;
+    background-image:url("../images/register.jpg");
+}
+
+header {
+    color: #000000;
+   /*background-color: #ffffff;*/
+    text-align: center;
+    height: 70px;
+}
+
+nav {
+    float: left;
+    margin: auto 3em;
+    padding-left: 100px;
+}
+
+li {
+    display: inline-block;
+}
+
+nav li {
+    padding: 0 1em;
+}
+
+a {
+    font-size: 18px;
+    font-weight: normal;
+    color: #000000;
+    text-decoration:none;
+}
+h3 a{
+    padding: 10px;
+}
+
+
+.div-left{
+
+    float: right;
+    margin-top: 10px;
+
+}
+
+
+.contents{
+    width:700px;
+    border:2px solid #ededed;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px  auto 0px;
+    background-color: white;
+    text-align: center;
+
+}
+section{
+    padding: 10px 10px;
+}
+.functions{
+    background-color: white;
+    padding-bottom: 3px;
+}
+
+a:hover{
+    color: #87bff2;
+}
+
+nav li a {
+    color: #000000;
+}
+p{
+font-size: 16px;
+}
+
+p small {
+    margin: 0;
+    padding: 0;
+    color: #000000;
+}
+
+.active {
+    color:#87bff2;
+}
+
+h1 {
+  margin:16px auto 0px;
+    text-align: center;
+  font-size: 30px;
+    font-weight: bold;
+}
+
+input, textarea {
+    padding: 0.5em;
+    margin: 0.5em 0;
+    width: 35%;
+    background-color: #ffffff;
+    border: #56707f solid 1px;
+    border-radius: 3px;
+    color: #000000
+}
+
+select{
+    margin-bottom: 10px;
+}
+input{
+    height: 35px;
+}
+input[type="checkbox"], input[type="radio"] {
+    height:15px;
+    width: 2em;
+}
+
+input[type="button"],input[type="submit"]  {
+    background-color: #ffffff;
+    border: #171a21 solid 1px;
+    width: 4em;
+}
+
+input[type="button"],input[type="submit"],input[type="checkbox"], input[type="radio"], select:hover {
+    cursor: pointer;
+}
+
+textarea {
+    width: 680px;
+    height: 15em;
+}
