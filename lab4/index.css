@@ -1,0 +1,26 @@
+.navbar {
+    background-color: #000;
+}
+.navbar-brand{
+    padding: 6px 6px;
+}
+footer{
+    background-color: #333333;
+}
+.row{
+    margin-top: 30px;
+    margin-left: 110px;
+}
+.copyright{
+    color: white;
+    text-align: center;
+}
+body .row {
+    margin: 30px auto;
+}
+footer{
+    background-color: #212121;
+}
+footer a{
+    color: white;
+}
