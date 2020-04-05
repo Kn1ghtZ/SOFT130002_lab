@@ -1,16 +1,16 @@
 我的设计文档
 ==========
 ## 主页截图：
-![示例1](./images/设计文档/示例1.png)
-![示例3](./images/设计文档/示例3.png)
-![示例4](./images/设计文档/示例4.png)
+![示例1](images/设计文档/示例1.png)
+![示例3](images/设计文档/示例3.png)
+![示例4](images/设计文档/示例4.png)
 ==========
 翻转过程
-![示例2](./images/设计文档/示例2.png)
+![示例2](images/设计文档/示例2.png)
 ==========
 ## 布局 ##
 ### 整体布局
-![示例3](./images/设计文档/整体布局.png)
+![示例3](images/设计文档/整体布局.png)
 头部的导航栏： 采用bootstrap中的类 `class="navbar navbar-inverse"`  
 
 轮播图：采用bootstrap中的`div id="carousel-example-generic" class="carousel slide" data-ride="carousel"`  
